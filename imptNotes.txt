@@ -1,0 +1,23 @@
+
+
+To initialize a nodejs backend, some important things to install in npm are
+1. Express
+2. CORS
+3. nodemon
+4. dotenv
+
+
+
+
+
+
+req.body
+req.params
+req.query
+
+Body means the data is in the body
+Query means the data in the api url comes behind the /
+Params are the text after the query in the api url, usually after the '?'
+
+
+
