@@ -1,6 +1,6 @@
 # Restaurant Reviews App
 
-Basic full-stack Restaurant Reviews App implemented using React, Nodejs and MongoDB.  
+Basic full-stack Restaurant Reviews App implemented using React, Nodejs and MongoDB Atlas.  
 
 ## Basic Functionality
 Allows user to login with a username and password. (No Authentication set up currently)  
